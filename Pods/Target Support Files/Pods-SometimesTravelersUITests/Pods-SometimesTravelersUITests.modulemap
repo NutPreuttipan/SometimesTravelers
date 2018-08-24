@@ -1,0 +1,6 @@
+framework module Pods_SometimesTravelersUITests {
+  umbrella header "Pods-SometimesTravelersUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
